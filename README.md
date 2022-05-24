@@ -1,6 +1,6 @@
 # ReasonAV
 
-**aka**
+**ReasonAV**
 
 [**RAV Antivirus**](https://www.reasonsecurity.com/compare)
 
