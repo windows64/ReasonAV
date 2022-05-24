@@ -2,7 +2,7 @@
 
 **aka**
 
-**RAV Antivirus**
+[**RAV Antivirus**](https://www.reasonsecurity.com/compare)
 
 [RAV-Antivirus-Installer.exe](https://github.com/windows64/ReasonAV/releases/download/ReasonAV-Download/RAV-Antivirus-installer.exe)
 
