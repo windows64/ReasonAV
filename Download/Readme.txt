@@ -1,2 +1,2 @@
 ReasonAV Installer download
-https://www.reasonsecurity.com/rav-antivirus/download-thank-you
+https://get.reasonlabs.com/rav-antivirus/download-thank-you
